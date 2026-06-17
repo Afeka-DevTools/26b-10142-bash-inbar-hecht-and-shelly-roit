@@ -21,7 +21,7 @@ show_ASCII_time.sh ./show_ASCII_time.sh
 
 
 :סקריפטים שנוצרו על ידי שלי רויט
-סקריפטים שנוצרו על ידי שלי רויט:
+
 user_info.sh ./user_info.sh  
 system_uptime.sh ./system_uptime.sh  
 disk_usage.sh ./disk_usage.sh  
