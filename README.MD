@@ -21,11 +21,12 @@ show_ASCII_time.sh ./show_ASCII_time.sh
 
 
 :סקריפטים שנוצרו על ידי שלי רויט
-user_info.sh
-system_uptime.sh
-disk_usage.sh
-show_calendar.sh
-search_word.sh
+סקריפטים שנוצרו על ידי שלי רויט:
+user_info.sh ./user_info.sh  
+system_uptime.sh ./system_uptime.sh  
+disk_usage.sh ./disk_usage.sh  
+show_calendar.sh ./show_calendar.sh  
+search_word.sh ./search_word.sh  
 
 הסברים על סקריפטים:
 
