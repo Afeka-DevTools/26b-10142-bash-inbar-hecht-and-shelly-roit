@@ -6,11 +6,11 @@
 <327777710> שלי רויט
 
 ##   סקריפטים שנכתבו על ידי אלעד כץ
-randomn_password.sh  
-terminate_program.sh  
-show _disc _per_file.sh  
-show_git_status.sh  
-show_ASCII_time.sh  
+randomn_password.sh ./randomn_password.sh  
+terminate_program.sh ./terminate_program.sh <process_name>  
+show _disc _per_file.sh ./show_disc_per_file.sh [path/to/directory]  
+show_git_status.sh ./show_git_status.sh [path/to/directory]  
+show_ASCII_time.sh ./show_ASCII_time.sh  
 
 
 סקריפטים שנוצרו על ידי ענבר הכט:
