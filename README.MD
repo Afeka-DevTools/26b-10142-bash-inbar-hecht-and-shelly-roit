@@ -3,7 +3,9 @@
 -
 -<315671172> ענבר הכט
 
-סקריפטים שנוצרו על ידי אלעד כץ:
+
+
+## סקריפטים שנכתבו על ידי אלעד כץ
 randomn_password.sh
 terminate_program.sh
 show _disc _per_file.sh
