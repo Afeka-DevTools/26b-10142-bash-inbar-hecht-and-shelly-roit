@@ -3,7 +3,7 @@
 -
 -<315671172> ענבר הכט
 
-
+<327777710> שלי רויט
 
 ## סקריפטים שנכתבו על ידי אלעד כץ
 randomn_password.sh
@@ -21,12 +21,11 @@ show_ASCII_time.sh
 
 
 :סקריפטים שנוצרו על ידי שלי רויט
-
-
-
-
-
-
+user_info.sh
+system_uptime.sh
+disk_usage.sh
+show_calendar.sh
+search_word.sh
 
 הסברים על סקריפטים:
 
@@ -35,7 +34,7 @@ show_ASCII_time.sh
 git clone [https://github.com/](https://github.com/)[username]/[repository-name].git
 
 # 2. כניסה לתיקיית הפרויקט שנוצרה
-cd [repository-name]
+cd [Bash_Scripts]
 # 3. בשביל לבדוק אם יש לקבוץ הרשאות תריצו את הפקודה
 ls -l script_name.sh
 אם אין הרשאות תעשו את שלב 4
