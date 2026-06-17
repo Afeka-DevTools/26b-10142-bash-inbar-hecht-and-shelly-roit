@@ -1,9 +1,36 @@
 ## חברי הצוות וחלוקת עבודה
--אלעד כץ<216553420
+-<216553420> אלעד כץ
 -
 -
 
 סקריפטים שנוצרו על ידי אלעד כץ:
-generate_password.sh
-kill_by_name.sh
-disk
+randomn_password.sh
+terminate_program.sh
+show _disc _per_file.sh
+show_git_status.sh
+show_ASCII_time.sh
+
+
+סקריפטים שנוצרו על ידי ענבר הכט:
+
+
+
+
+
+
+:סקריפטים שנוצרו על ידי שלי רויט
+
+
+
+
+
+
+
+
+
+הסברים על הרצאה:
+
+
+
+
+
