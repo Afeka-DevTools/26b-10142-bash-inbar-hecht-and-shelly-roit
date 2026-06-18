@@ -6,7 +6,8 @@
 <327777710> שלי רויט
 
 ## חלוקת סקריפטים
-סקריפטים שנכתבו על ידי אלעד כץ
+סקריפטים שנכתבו על ידי אלעד כץ:  
+
 randomn_password.sh ./randomn_password.sh  
 terminate_program.sh ./terminate_program.sh <process_name>  
 show _disc _per_file.sh ./show_disc_per_file.sh [path/to/directory]  
@@ -22,7 +23,7 @@ show_Battery_Percentage.sh ./show_Battery_Percentage.sh
 dir_summary.sh ./dir_summary.sh <path_to_folder>  
 count_Chars.sh ./count_Chars.sh <path_to_folder> 
 
-:סקריפטים שנוצרו על ידי שלי רויט
+סקריפטים שנוצרו על ידי שלי רויט:
 
 user_info.sh ./user_info.sh  
 system_uptime.sh ./system_uptime.sh  
