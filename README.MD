@@ -14,7 +14,7 @@ show_ASCII_time.sh ./show_ASCII_time.sh
 
 
 סקריפטים שנוצרו על ידי ענבר הכט:
-sort_lines_A-Z.sh
+sort_lines_A-Z.sh  
 add_prefix.sh
 show_Battery_Percentage.sh
 dir_summary.sh
