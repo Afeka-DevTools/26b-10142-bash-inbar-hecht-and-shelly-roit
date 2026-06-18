@@ -5,7 +5,8 @@
 
 <327777710> שלי רויט
 
-##   סקריפטים שנכתבו על ידי אלעד כץ
+## חלוקת סקריפטים
+סקריפטים שנכתבו על ידי אלעד כץ
 randomn_password.sh ./randomn_password.sh  
 terminate_program.sh ./terminate_program.sh <process_name>  
 show _disc _per_file.sh ./show_disc_per_file.sh [path/to/directory]  
@@ -14,11 +15,12 @@ show_ASCII_time.sh ./show_ASCII_time.sh
 
 
 סקריפטים שנוצרו על ידי ענבר הכט:  
-sort_lines_A-Z.sh  
-add_prefix.sh  
-show_Battery_Percentage.sh  
-dir_summary.sh  
-count_Chars.sh  
+
+sort_lines_A-Z.sh ./sort_lines_A-Z.sh <path_to_file>  
+add_prefix.sh ./add_prefix.sh <path_to_folder>  
+show_Battery_Percentage.sh ./show_Battery_Percentage.sh  
+dir_summary.sh ./dir_summary.sh <path_to_folder>  
+count_Chars.sh ./count_Chars.sh <path_to_folder> 
 
 :סקריפטים שנוצרו על ידי שלי רויט
 
