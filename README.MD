@@ -13,12 +13,12 @@ show_git_status.sh ./show_git_status.sh [path/to/directory]
 show_ASCII_time.sh ./show_ASCII_time.sh  
 
 
-סקריפטים שנוצרו על ידי ענבר הכט:
+סקריפטים שנוצרו על ידי ענבר הכט:  
 sort_lines_A-Z.sh  
-add_prefix.sh
-show_Battery_Percentage.sh
-dir_summary.sh
-count_Chars.sh
+add_prefix.sh  
+show_Battery_Percentage.sh  
+dir_summary.sh  
+count_Chars.sh  
 
 :סקריפטים שנוצרו על ידי שלי רויט
 
